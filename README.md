@@ -1,16 +1,15 @@
-## Hi there 👋
+# Senior PHP / Laravel Developer
 
-<!--
-**dmitryravilov/dmitryravilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend systems, APIs, and reliable applications
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a backend developer with more than 6 years of experience, mainly working with PHP and Laravel.
+
+Most of my work has been around financial platforms: payments, scoring, compliance tools, and internal business systems. I also have a background in QA automation, which taught me to pay close attention to quality, testing, and long term reliability.
+
+I enjoy improving existing systems, simplifying complex logic, and helping teams keep a high engineering standard.
+
+## Tech Stack
+
+PHP (Laravel, Symfony), Docker, REST, SQL, Vue.js  
