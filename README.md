@@ -1,15 +1,20 @@
-# Senior PHP / Laravel Developer
+# Lead Backend Engineer
 
 Backend systems, APIs, and reliable applications
 
 ## About
 
-I’m a backend developer with more than 6 years of experience, mainly working with PHP and Laravel.
+Senior PHP developer and team lead. More than 6 years have been focused on backend development, with solid frontend experience and a background in QA automation that still shapes how I think about quality and reliability. Over the years, I’ve built and maintained customer‑scoring engines, loyalty platforms, regulatory systems, and secure banking integrations.
 
-Most of my work has been around financial platforms: payments, scoring, compliance tools, and internal business systems. I also have a background in QA automation, which taught me to pay close attention to quality, testing, and long term reliability.
+I’ve taken part in audits, worked through complex data migrations, and spent plenty of time untangling long‑running systems so they stay fast, stable, and easier to maintain. I review pull requests and set clear standards.
 
-I enjoy improving existing systems, simplifying complex logic, and helping teams keep a high engineering standard.
+Most of my work is in PHP with Laravel, alongside Vue.js. I work with Docker on a daily basis for local development and deployments. Sometimes I use Go in my side projects and in smaller backend services when I need something simple and fast.
+
+I’m open to remote B2B contract opportunities worldwide and enjoy working with distributed teams where reliability and scalability matter most.
 
 ## Tech Stack
 
-PHP (Laravel, Symfony), Docker, REST, SQL, Vue.js  
+* Backend: PHP (Laravel, Symfony), Golang (Basic), REST APIs
+* Frontend: JavaScript (ES6+), Vue.js
+* Infrastructure & DevOps: Docker, AWS, CI/CD Pipelines
+* Data & Observability: SQL (PostgreSQL/MySQL), Grafana
