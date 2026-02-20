@@ -14,7 +14,7 @@ I’m open to remote B2B contract opportunities worldwide and enjoy working with
 
 ## Tech Stack
 
-* Backend: PHP (Laravel, Symfony), Golang (Basic), REST APIs
+* Backend: PHP (Laravel, Symfony), Golang, REST APIs
 * Frontend: JavaScript (ES6+), Vue.js
 * Infrastructure & DevOps: Docker, AWS, CI/CD Pipelines
 * Data & Observability: SQL (PostgreSQL/MySQL), Grafana
