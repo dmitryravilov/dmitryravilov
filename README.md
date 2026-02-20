@@ -10,8 +10,6 @@ I’ve taken part in audits, worked through complex data migrations, and spent p
 
 Most of my work is in PHP with Laravel, alongside Vue.js. I work with Docker on a daily basis for local development and deployments. Sometimes I use Go in my side projects and in smaller backend services when I need something simple and fast.
 
-I’m open to remote B2B contract opportunities worldwide and enjoy working with distributed teams where reliability and scalability matter most.
-
 ## Tech Stack
 
 * Backend: PHP (Laravel, Symfony), Golang, REST APIs
